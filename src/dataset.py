@@ -1,3 +1,4 @@
+import torch
 from torchvision import transforms, datasets
 
 IMAGE_SIZE = 224
